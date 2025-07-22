@@ -1,18 +1,4 @@
 {
-<<<<<<< HEAD
-  "name": "chat-app",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "typescript": "^5.8.3"
-=======
   "name": "vite-project",
   "private": true,
   "version": "0.0.0",
@@ -42,6 +28,6 @@
     "typescript": "~5.8.3",
     "typescript-eslint": "^8.35.1",
     "vite": "^7.0.4"
->>>>>>> 9ba6bf5 (Chat App Frontend)
+
   }
 }
