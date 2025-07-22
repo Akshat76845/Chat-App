@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# Build artifacts
+dist/
+build/
+.cache/
+.parcel-cache/ # If using Parcel
+public/build/ # If your build output is in public/build
+
+# Log files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
